@@ -1,3 +1,2 @@
-Testing continues...
-And continues..
+Testing continues!
 And goes on
