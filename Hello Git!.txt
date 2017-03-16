@@ -1,3 +1,4 @@
 Hi there!
 commit1
+master changed
 commit2
